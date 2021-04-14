@@ -26,8 +26,8 @@ public class Member_Main {
 		
 		//¸Ş¼Òµå update
 		
-		Member mem3= new Member ();
-		mem3.update("¸Í½ÂÁö");
+		Member mem1= new Member ();
+		mem1.update();
 		
 		
 		

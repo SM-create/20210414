@@ -40,6 +40,7 @@ public class Member {
 	
 	String myName() {
 		
+		
 		return name;
 	}
 	
